@@ -1,0 +1,17 @@
+day after tomorrow I have interview for devops engineer Below are my resume poits
+So give me for each point 4 scenario based follow up questions and 2 tricky question
+and give me my daily routine for this role
+•  Architected multi-cloud infrastructure using Terraform to provision and manage resources across AWS (EC2, VPC, S3, RDS, Route 53, ELB) and Azure (Virtual Machines, Blob Storage, SQL Database, DNS, Load Balancer), reducing deployment time by 40%.
+•  Designed and implemented advanced Kubernetes orchestration with custom Helm charts, configuring auto-scaling pods and node pools in AKS that achieved 20% reduction in operational costs.
+•  Established enterprise-grade CI/CD pipelines with Jenkins, SonarQube, Maven, Trivy, and custom Groovy scripts for multi-language applications (Java, Python, .NET), enhancing code quality and reducing deployment times by 25%.
+•  Containerized legacy applications into microservices architecture using Docker and Docker Compose, optimizing resource utilization and improving scalability.
+•  Engineered a sophisticated monitoring solution with Prometheus and Grafana dashboards, implementing custom alerting rules that improved system reliability by 40%.
+•  Led migration from GitHub to Azure DevOps, implementing complex branching strategies and webhook configurations that enhanced cross-team collaboration.
+• Automated serverless application deployment to Azure Functions, Web Apps, and AWS Lambda via integrated CI/CD pipelines, ensuring consistent delivery across development stages.
+•  Configured Jenkins pipelines for Java, Python, and Node.js applications using Ansible YAML scripts, standardizing deployment processes and reducing errors by 35%.
+•  Implemented Kubernetes deployments using pre-built Helm charts, managing basic ConfigMaps, Ingress controllers, and Horizontal Pod Autoscalers for improved application availability.
+•  Set up monitoring infrastructure with Prometheus and Grafana, integrating Trivy for vulnerability scanning to enhance security protocols by 30%.
+•  Established backup and recovery procedures utilizing S3 versioning, EBS snapshots, and AWS Storage Gateway to ensure data integrity and disaster recovery capability.
+•  Configured DNS management with Route 53 and set up Application Load Balancer integration with Kubernetes clusters for improved traffic management.
+•  Implemented IAM roles, policies, and users for secure access management to AWS resources, following security best practices.
+•  Created comprehensive documentation and deployment guides for development, testing, production, and disaster recovery environments, improving team efficiency by 20%. •  Managed routine Jenkins-based automated deployments and provided troubleshooting support for deployment issues across environments.
